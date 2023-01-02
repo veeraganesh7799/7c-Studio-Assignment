@@ -1,0 +1,12 @@
+.heading {
+  font-family: sans-serif;
+  text-align: center;
+  align-self: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30%;
+}
